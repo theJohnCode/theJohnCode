@@ -1,0 +1,20 @@
+
+figure.zoom {
+  background-position: 50% 50%;
+  position: relative;
+  border: 5px solid white;
+  /* box-shadow: -1px 5px 15px black; */
+  width: 256px;
+  overflow: hidden;
+  cursor: zoom-in;
+}
+
+figure.zoom img:hover {
+  opacity: 0;
+}
+figure.zoom img {
+  transition: opacity 0.5s;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
