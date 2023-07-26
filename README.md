@@ -1,66 +1,48 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<h1 align="center">Hey 😉, I'm Ifeanyichukwu John</h1>
+<h3 align="center">I am a Fullstack Web Developer; </h3>
+<h3 align="center">Happy to have you read about me ; </h3>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theJohnCode&label=Profile&theme=onedark%20views&color=0e75b6&style=flat" alt="theJohnCode" /> </p>
+
+
+<p align="left"> <a href="https://twitter.com/theJohncode" target="blank"><img src="https://img.shields.io/twitter/follow/theJohncode?logo=twitter&style=for-the-badge" alt="theJohncode" /></a> </p>
+
+
+- 🌱 I’m currently learning to build **Machine Learning Applications and Services with Python and its Libraries** I am also a Backend Developer.
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/theJohncode).
+
+- 📝 I regularly write articles on [Hashnode](https://ifeanyichukwu.hashnode.dev/).
+
+- 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/ifeanyichukwujohn/)
+
+- 💬 Ask me about **Python; Backend with PHP/Laravel; Javascript**.
+  
+<a href="mailto:ifeanyichukwujohn70@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+- ⚡ My Hobbies ==  I'm interested in these non-tech activities {Football, Comedies,Athletics}...
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original.svg" alt="android" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" alt="android" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="android" width="40" height="40"/> </a><a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original.svg" alt="android" width="40" height="40"/> </a><a href="https://www.gitbook.com/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_48e27e5232baea1c96e4115e757c0fde/gitbook.png" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" alt="android" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" alt="android" width="40" height="40"/> </a> <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jupyter/jupyter-original.svg" alt="android" width="40" height="40"/> </a><p align="left">
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/ifeanyichukwu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/goodnessuc" height="30" width="40" /></a>
+<a href="https://twitter.com/theJohnCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goodnessuc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ifeanyichukwujohn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastine-odeh-1081a318b/" height="30" width="40" /></a>
 </p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Johncode-s&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Johncode" /></p>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johncode-s&show_icons=true&locale=en&theme=onedark" alt="Johncode" /></p>
 
-## Learning Laravel
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Johncode-s&&theme=onedark" alt="Johncode-s" /></p>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Johncode-s&theme=onedark" alt="Johncode-s" /></a> </p>
